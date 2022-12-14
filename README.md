@@ -22,6 +22,7 @@ HOSTED_DOCS_ONLY-->
 <img alt="DataHub" src="docs/imgs/datahub-logo-color-mark.svg" height="150" />
 </p>
 <!-- -->
+<!-- -->
 
 # DataHub: The Metadata Platform for the Modern Data Stack
 ## Built with ❤️ by <img src="https://datahubproject.io/img/acryl-logo-light-mark.png" width="25"/> [Acryl Data](https://acryldata.io) and <img src="https://datahubproject.io/img/LI-In-Bug.png" width="25"/> [LinkedIn](https://engineering.linkedin.com)
